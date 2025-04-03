@@ -1,0 +1,11 @@
+id,name,age,salary,department,experience_years
+1,Jean Dupont,35,55000,IT,10
+2,Marie Martin,28,,Marketing,5
+3,Pierre Durand,,48000,Finance,
+4,Sophie Lefebvre,42,62000,,12
+5,,31,44000,HR,7
+6,Marc Petit,45,,IT,15
+7,Claire Moreau,33,51000,Marketing,
+8,Thomas Leroy,,38000,Finance,4
+9,Julie Roux,29,,HR,
+10,Paul Bernard,39,58000,,11 
